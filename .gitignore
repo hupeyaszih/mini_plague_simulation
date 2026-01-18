@@ -1,0 +1,14 @@
+# OS çöpleri
+.DS_Store
+Thumbs.db
+
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+CMakeFiles/
+CMakeCache.txt
+Makefile
+.cache/
