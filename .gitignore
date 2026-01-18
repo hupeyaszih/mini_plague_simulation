@@ -12,3 +12,6 @@ CMakeFiles/
 CMakeCache.txt
 Makefile
 .cache/
+cmake_install.cmake
+compile_commands.json
+plague_simulation
