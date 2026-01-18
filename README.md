@@ -8,5 +8,5 @@ Simple plague simulation on a directed graph.
 - Written in C++ for quick modeling and completion
 
 This project was intentionally kept small and simple.
-'''bash
-./plague_simulation -totalTick 50 -population 1000 -minEdgeCountPerHuman 4 -maxEdgeCountPerHuman 8 -totalInfectedInStart 1 -plagueInfectSTR 60 -plagueTickForBeCured 7'''
+```bash
+./plague_simulation -totalTick 50 -population 1000 -minEdgeCountPerHuman 4 -maxEdgeCountPerHuman 8 -totalInfectedInStart 1 -plagueInfectSTR 60 -plagueTickForBeCured 7
