@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/plague_simulation.dir/link.d CMakeFiles/plague_simulation.dir/src/main.cpp.o -o plague_simulation

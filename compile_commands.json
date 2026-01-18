@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/hupeyaszih/projects/plague_simulation",
+  "command": "/usr/bin/c++  -I/home/hupeyaszih/projects/plague_simulation/include -std=gnu++20 -o CMakeFiles/plague_simulation.dir/src/main.cpp.o -c /home/hupeyaszih/projects/plague_simulation/src/main.cpp",
+  "file": "/home/hupeyaszih/projects/plague_simulation/src/main.cpp",
+  "output": "CMakeFiles/plague_simulation.dir/src/main.cpp.o"
+}
+]

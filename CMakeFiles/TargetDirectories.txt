@@ -1,0 +1,3 @@
+/home/hupeyaszih/projects/plague_simulation/CMakeFiles/plague_simulation.dir
+/home/hupeyaszih/projects/plague_simulation/CMakeFiles/edit_cache.dir
+/home/hupeyaszih/projects/plague_simulation/CMakeFiles/rebuild_cache.dir
